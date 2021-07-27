@@ -1,3 +1,3 @@
-### Developed Movie Reviews Website Using HTML, CSS and Bootstrap, and JavaScript  ###
+### Developed Movie Reviews Website Using HTML, CSS, and JavaScript  ###
 ### Sample Website Images are in .jpg files above  ###
 
