@@ -152,7 +152,7 @@
 				<div class="latest_movies">
 					<div>
 	
-							<img src ="images/bum.jpg">
+	   <img src ="https://alokroychatterjee.github.io/Netflix-ReviewFlix-Movie-Reviews-Website/img/pic.jpg ">
 							<div class = "caption">
 								Another Movie
 							</div>
