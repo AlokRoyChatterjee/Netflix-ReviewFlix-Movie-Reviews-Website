@@ -13,7 +13,7 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 
   	<script src = "js/jquery_myScript.js"></script>
-  	<link  rel = "stylesheet" type = "text/css" href = "css/style.css">
+  	<link  rel = "stylesheet" type = "text/css" href = "styles.css">
 </head>
 <body>
 	<a name = "top_header"></a>
@@ -153,8 +153,8 @@
 			<div class="latest_movies_content">
 				<div class="latest_movies">
 					<div>
-						
-							<img class = "photo" src = "images/bum.jpg">
+	
+							<img src ="images/bum.jpg">
 							<div class = "caption">
 								Another Movie
 							</div>
