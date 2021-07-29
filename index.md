@@ -153,12 +153,12 @@
 			<div class="latest_movies_content">
 				<div class="latest_movies">
 					<div>
-						<a href = "html/latest/bum.html" target = "_blank">
+						
 							<img class = "photo" src = "images/bum.jpg">
 							<div class = "caption">
 								Another Movie
 							</div>
-						</a>
+					
 					</div>
 				</div>
 				<div class="latest_movies">
