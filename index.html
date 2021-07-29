@@ -164,7 +164,7 @@
 				<div class="latest_movies">
 					<div>
 						<a href = "html/latest/aqua.html" target = "_blank">
-							<img class = "photo" src = "res/img/aqua.jpg">
+							<img class = "photo" src = "aqua.jpg">
 							<div class = "caption">
 								Aquaman Movie
 							</div>
