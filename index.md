@@ -154,7 +154,7 @@
 				<div class="latest_movies">
 					<div>
 	
-	   <img src ="https://alokroychatterjee.github.io/Netflix-ReviewFlix-Movie-Reviews-Website/img/pic.jpg ">
+	   <img src ="https://alokroychatterjee.github.io/Netflix-ReviewFlix-Movie-Reviews-Website//aqua.jpg">
 							<div class = "caption">
 								Another Movie
 							</div>
@@ -164,7 +164,7 @@
 				<div class="latest_movies">
 					<div>
 						<a href = "html/latest/aqua.html" target = "_blank">
-							<img class = "photo" src = "aqua.jpg">
+							<img class = "photo" src = "aqua.JPG">
 							<div class = "caption">
 								Aquaman Movie
 							</div>
